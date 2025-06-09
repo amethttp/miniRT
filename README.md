@@ -27,7 +27,7 @@ And more...
 * [Cmake](https://cmake.org/download/)
 ### Download and execute
 ```shell
-git clone https://github.com/cfareste/MiniRT.git miniRT \
+git clone https://github.com/amethttp/miniRT.git miniRT \
 && cd miniRT \
 && make \
 && ./miniRT assets/scenes/pathtracer.rt;
